@@ -1,0 +1,88 @@
+{
+  "slots": {
+    "s1": [
+      { "suit": "Spades", "rank": "10" },
+      { "suit": "Hearts", "rank": "7" },
+      { "suit": "Diamonds", "rank": "4" },
+      { "suit": "Clubs", "rank": "Ace" }
+    ],
+    "s2": [
+      { "suit": "Clubs", "rank": "Jack" },
+      { "suit": "Spades", "rank": "7" },
+      { "suit": "Hearts", "rank": "4" },
+      { "suit": "Diamonds", "rank": "Ace" }
+    ],
+    "s3": [
+      { "suit": "Diamonds", "rank": "Jack" },
+      { "suit": "Clubs", "rank": "8" },
+      { "suit": "Spades", "rank": "4" },
+      { "suit": "Hearts", "rank": "Ace" }
+    ],
+    "s4": [
+      { "suit": "Hearts", "rank": "Jack" },
+      { "suit": "Diamonds", "rank": "8" },
+      { "suit": "Clubs", "rank": "5" },
+      { "suit": "Spades", "rank": "Ace" }
+    ],
+    "s5": [
+      { "suit": "Spades", "rank": "Jack" },
+      { "suit": "Hearts", "rank": "8" },
+      { "suit": "Diamonds", "rank": "5" },
+      { "suit": "Clubs", "rank": "2" }
+    ],
+    "s6": [
+      { "suit": "Clubs", "rank": "Queen" },
+      { "suit": "Spades", "rank": "8" },
+      { "suit": "Hearts", "rank": "5" },
+      { "suit": "Diamonds", "rank": "2" }
+    ],
+    "s7": [
+      { "suit": "Diamonds", "rank": "Queen" },
+      { "suit": "Clubs", "rank": "9" },
+      { "suit": "Spades", "rank": "5" },
+      { "suit": "Hearts", "rank": "2" }
+    ],
+    "s8": [
+      { "suit": "Hearts", "rank": "Queen" },
+      { "suit": "Diamonds", "rank": "9" },
+      { "suit": "Clubs", "rank": "6" },
+      { "suit": "Spades", "rank": "2" }
+    ],
+    "s9": [
+      { "suit": "Spades", "rank": "Queen" },
+      { "suit": "Hearts", "rank": "9" },
+      { "suit": "Diamonds", "rank": "6" },
+      { "suit": "Clubs", "rank": "3" }
+    ],
+    "s10": [
+      { "suit": "Clubs", "rank": "King" },
+      { "suit": "Spades", "rank": "9" },
+      { "suit": "Hearts", "rank": "6" },
+      { "suit": "Diamonds", "rank": "3" }
+    ],
+    "s11": [
+      { "suit": "Diamonds", "rank": "King" },
+      { "suit": "Clubs", "rank": "10" },
+      { "suit": "Spades", "rank": "6" },
+      { "suit": "Hearts", "rank": "3" }
+    ],
+    "s12": [
+      { "suit": "Hearts", "rank": "King" },
+      { "suit": "Diamonds", "rank": "10" },
+      { "suit": "Clubs", "rank": "7" },
+      { "suit": "Spades", "rank": "3" }
+    ],
+    "s13": [
+      { "suit": "Spades", "rank": "King" },
+      { "suit": "Hearts", "rank": "10" },
+      { "suit": "Diamonds", "rank": "7" },
+      { "suit": "Clubs", "rank": "4" }
+    ]
+  },
+  "foundations": {
+    "s1": [],
+    "s2": [],
+    "s3": [],
+    "s4": []
+  }
+}

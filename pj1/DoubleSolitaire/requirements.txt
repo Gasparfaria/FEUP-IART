@@ -1,0 +1,2 @@
+configparser==7.2.0
+pygame==2.6.1

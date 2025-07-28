@@ -1,0 +1,6 @@
+.venv
+.venv1
+.idea/
+/__pycache__/*
+*.pyc
+pj1/DoubleSolitaire/src/__pycache__/
